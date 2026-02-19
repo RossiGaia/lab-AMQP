@@ -1,0 +1,55 @@
+# ============================
+# Environment / Secrets
+# ============================
+
+.env
+.env.local
+.env.*.local
+
+# ============================
+# Composer / PHP dependencies
+# ============================
+
+vendor/
+composer.phar
+bin/
+installer
+
+# ============================
+# Logs / Runtime files
+# ============================
+
+*.log
+*.tmp
+*.cache
+
+# ============================
+# OS generated files
+# ============================
+
+.DS_Store
+Thumbs.db
+
+# ============================
+# IDE / Editor folders
+# ============================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ============================
+# Build / Archives
+# ============================
+
+*.zip
+*.tar.gz
+*.rar
+
+# ===========================
+# Others
+# ===========================
+
+python/
+tutorial/
